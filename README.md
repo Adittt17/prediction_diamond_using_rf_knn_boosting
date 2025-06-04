@@ -56,9 +56,9 @@ All numerical inputs are **bounded** to values observed during training to:
 
 This app is deployed using **Streamlit Cloud**. You can run it in your browser without installing anything.
 
-🔗 [Live Demo (Streamlit Cloud)](https://your-streamlit-url.streamlit.app)
+🔗 [Live Demo (Streamlit Cloud)](https://predictiondiamondusing-rf-knn-adaboosting.streamlit.app/)
 
-> *(Replace the link above with your actual Streamlit app link.)*
+
 
 ---
 
