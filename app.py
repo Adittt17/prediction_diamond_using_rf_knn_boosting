@@ -8,7 +8,7 @@ import pickle
 models = {
     'Random Forest': joblib.load('model_rf.joblib'),
     'KNN': joblib.load('model_knn.joblib'),
-    'AdaBoost': joblib.load('model_boosting.joblib')
+    'AdaBoost': joblib.load('model_adaboost.joblib')
 }
 scaler = joblib.load('scaler.joblib')
 pca = joblib.load('pca.joblib')
